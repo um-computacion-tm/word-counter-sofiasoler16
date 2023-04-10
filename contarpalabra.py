@@ -6,9 +6,6 @@ def palabra(pala):
         if cantpala >= 2:
             r.remove(d)
     cant = len(r)
-    print(r)
-    print (pala)
-    print (cant)
     return (cant)
 
 
